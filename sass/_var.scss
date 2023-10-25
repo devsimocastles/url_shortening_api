@@ -1,0 +1,16 @@
+// COLORS /////////////////////////
+    // PRIMARY
+$cyan:hsl(180, 66%, 49%);
+$darkViolet:hsl(257, 27%, 26%);
+    // SECONDARY
+$red: hsl(0, 87%, 67%);
+    // NEUTRAL
+$gray: hsl(0, 0%, 75%);
+$grayishViolet: hsl(257, 7%, 63%);
+$veryDarkBlue: hsl(255, 11%, 22%);
+$veryDarkViolet: hsl(260, 8%, 14%);   
+
+// FONT //////////////////////
+    // POPPINS
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;800&display=swap');
+$font: 'Poppins', sans-serif;
